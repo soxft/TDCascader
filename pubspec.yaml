@@ -31,8 +31,10 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_hooks:
-  tdesign_flutter: ^0.1.5
-  
+  tdesign_flutter: 
+  #  path: plugins/tdesign-flutter/tdesign-component
+  dio: ^5.3.2
+   
 
 
   # The following adds the Cupertino Icons font to your application.
